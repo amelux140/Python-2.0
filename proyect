@@ -1,0 +1,4 @@
+ Python-2.0
+import random
+words = ["me gustan los gatos", "mi color favorito es el azul marino", "mi juego favorito es roblox", "me gustan escribir guiones y historias", "me gusta nadar", "me gusta el basket", "mi comida favorita es la lasaña", "me encanta la ropa oscura", "soy algo introvertida", "me encantan las frutas"]
+words = print(random.choice(words))
